@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: SqlDB
+Version: 2.0.15
+Summary: SQL Family DB handler
+Home-page: https://github.com/kagepark/SqlDB
+Author: Kage Park
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# SQL Family handler
+- Support DB
+  - SqLite3
+  - PostgreSQL
+
+# Install
+```javascript
+pip3 install SqlDB
+```
+
+
+
